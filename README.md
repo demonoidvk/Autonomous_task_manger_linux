@@ -7,6 +7,7 @@ Functionalities:
 
 Procedure to run the files:
   1.install mysqlconnector plugin for python
+
   2. Execute front.py: <python front.py>
   
   Have Fun!
